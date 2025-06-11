@@ -43,7 +43,7 @@ function btn() {
       }
 
       document.getElementById("nr").innerHTML = localStorage.clickcount;
-    
+      
 
 
     //document.getElementById("main").style.display="none";
